@@ -1,13 +1,17 @@
-# BookManagementApp
+# 📚 Bookstore App (JavaFX)
 
-A user-friendly JavaFX desktop application that allows administrators to manage books and customers, and enables customers to earn and redeem points through purchases. The app features:
+A user-friendly JavaFX desktop application that allows owners to manage books and customers, and allows customers to browse and purchase books while earning points and having the option to redeem them.
 
-# Admin Features:
-  Add or remove books
-  Add or remove customers
+## Features
 
-# Customer Features:
-  Login system with points tracking
-  Purchase books to earn points
-  Redeem points to get books for free
-  Dynamic status system (Silver / Gold) based on points
+### Admin
+- Log in with username: admin and password: admin
+- Add or remove books
+- Add or remove customers
+- View and manage records using tables
+
+### Customer
+- Log in with username: user and password: pass
+- Earn points by buying books (10× book price)
+- Redeem points to get books (100× book price)
+- Automatically upgrades status: Silver → Gold (at 1000 points)
