@@ -1,4 +1,4 @@
-# 📚 Bookstore App (JavaFX)
+# Bookstore App (JavaFX)
 
 A user-friendly JavaFX desktop application that allows owners to manage books and customers, and allows customers to browse and purchase books while earning points and having the option to redeem them.
 
